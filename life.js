@@ -22,7 +22,7 @@
                 countdown = document.getElementById("countdown"),
                 content = document.getElementById("content");
   
-            headline.innerText = "Goodbye!";
+            headline.innerText = "Goodbye, you will be missed..Goodluck!!";
             countdown.style.display = "none";
             content.style.display = "block";
   
